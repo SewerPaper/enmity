@@ -14,7 +14,7 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#FBFBFB",
+      "#23283c",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#E6E6FA",
+      "#734f96",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -38,7 +38,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#4f5360",
+      "#734f96",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -46,59 +46,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#808080",
+      "#242d5c",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -122,7 +122,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#BFBFBF",
+      "#86bbfc",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
@@ -130,7 +130,7 @@
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#BFBFBF",
+      "#86bbfc",
       "#6c56c4"
     ]
   },
