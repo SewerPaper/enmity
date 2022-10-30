@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#590a52",
+      "#c9c9ff",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -34,7 +34,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -142,14 +142,14 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#C8C8C8",
     "PRIMARY_DARK_500": "#0c0c0c",
-    "PRIMARY_DARK_600": "#210001",
+    "PRIMARY_DARK_600": "#170021",
     "PRIMARY_DARK_630": "#1f1f1f",
-    "PRIMARY_DARK_700": "#210001",
-    "PRIMARY_DARK_800": "#210001",
-    "PRIMARY_DARK_900": "#210001"
+    "PRIMARY_DARK_700": "#0a0021",
+    "PRIMARY_DARK_800": "#0a0021",
+    "PRIMARY_DARK_900": "#0a0021"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#250422"
+    "CHAT_GREY": "#c9c9ff"
   },
   "background": {
     "blur": 0,
