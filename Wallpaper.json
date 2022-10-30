@@ -18,19 +18,19 @@
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#ffffff",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#c9c9ff",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#B6B6B6",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#4f5660",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,7 +38,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#734f96",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
