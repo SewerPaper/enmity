@@ -10,7 +10,7 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#210001",
+      "#23283c",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
@@ -18,11 +18,11 @@
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#B6B6B6",
+      "#ffffff",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#734f96",
+      "#590a52",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
