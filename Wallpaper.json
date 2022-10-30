@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#E6E6FA",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -30,7 +30,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c8c8c8",
+      "#4f5660",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,7 +38,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#fbfbfb",
+      "#4f5360",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -46,59 +46,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#210001",
+      "#808080",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/903057320295157762/1036311548618088508/374e9d3507b4c6602b6a81919f893f33.jpg",
+    "url": "https://cdn.discordapp.com/attachments/903057320295157762/1036350578344865922/Untitled_design_1.png",
     "alpha": 1.0
   }
 }
